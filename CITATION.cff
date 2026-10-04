@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying ICWSM 2025 paper."
+title: "The Susceptibility Paradox in Online Social Influence: Research Code"
+type: software
+license: MIT
+repository-code: "https://github.com/angelayejinyi/susceptibility-paradox"
+authors:
+  - family-names: Luceri
+    given-names: Luca
+  - family-names: Ye
+    given-names: Jinyi
+  - family-names: Jiang
+    given-names: Julie
+  - family-names: Ferrara
+    given-names: Emilio
+preferred-citation:
+  type: article
+  title: "The Susceptibility Paradox in Online Social Influence"
+  authors:
+    - family-names: Luceri
+      given-names: Luca
+    - family-names: Ye
+      given-names: Jinyi
+    - family-names: Jiang
+      given-names: Julie
+    - family-names: Ferrara
+      given-names: Emilio
+  journal: "Proceedings of the International AAAI Conference on Web and Social Media"
+  volume: 19
+  issue: 1
+  year: 2025
+  start: 1122
+  end: 1138
+  doi: "10.1609/icwsm.v19i1.35864"

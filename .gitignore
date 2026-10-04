@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+outputs/
+*.out
+*.err
+
+# Local reference/template files; link to the official paper from README.
+51177-ICWSM.LuceriL.pdf
+README_example.md
