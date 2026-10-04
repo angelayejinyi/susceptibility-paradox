@@ -65,7 +65,14 @@ python -m pip install -r requirements.txt
 
 ## Data
 
-The original tweet datasets and intermediate CSV files are not included because of their size and applicable data-sharing restrictions. To run the pipeline, prepare these files for either the `covid` or `election` dataset:
+The source collections are available from the [HUMANS Lab dataset catalog](https://www.emilio.ferrara.name/datasets/):
+
+- [COVID-19 Tweets](https://github.com/echen102/COVID-19-TweetIDs)
+- [2020 U.S. Election Tweets](https://github.com/echen102/us-pres-elections-2020)
+
+Please follow the access instructions and terms listed on the dataset catalog, including its citation and non-redistribution requirements. The original tweets and intermediate CSV files are not included in this repository because of their size and applicable data-sharing restrictions.
+
+To run the pipeline, prepare these files for either the `covid` or `election` dataset:
 
 | File | Required content |
 |---|---|
